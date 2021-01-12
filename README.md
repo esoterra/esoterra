@@ -8,8 +8,8 @@ About me
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
-I'm currently seeking collaborators to work on.
-* [OpenLang](https://github.com/OpenLangDev) - Language specification system and tools ecosystem.
+<!-- I'm currently seeking collaborators to work on. -->
+<!-- * [OpenLang](https://github.com/OpenLangDev) - Language specification system and tools ecosystem. -->
 <!-- * [kylebcoding.com](https://github.com/kylebcoding) - A site I'm building to organize informational content -->
 
 
