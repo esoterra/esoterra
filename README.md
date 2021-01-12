@@ -4,7 +4,7 @@
 About me
 - 🔭 I’m currently working on web services, tools, and automation
 - 👯 I’m looking to collaborate on fun and interesting Rust and TypeScript projects
-- 🤔 I’m looking for help with language specification and parser generation
+- 🤔 I’m looking for help with language specification and implementation
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
