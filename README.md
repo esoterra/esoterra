@@ -8,9 +8,7 @@ About me
 <!-- - ⚡ Fun fact: ... -->
 
 I'm currently seeking collaborators to work on.
-* [wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A Bytecode Alliance project that lets your WASM modules use high-level interfaces
-* [Wrought](https://github.com/wrought-lang) - A simple compile-to-WASM programming language.
-<!-- * [OpenLang](https://github.com/OpenLangDev) - Language specification system and tools ecosystem. -->
-<!-- * [kylebcoding.com](https://github.com/kylebcoding) - A site I'm building to organize informational content -->
+* [Warg](https://github.com/BytecodeAlliance/registry) - A protocol for Wasm Registries.
+* [Wrought](https://github.com/wrought-lang) - A simple compile-to-Wasm programming language.
 
 
