@@ -8,8 +8,8 @@ About me
 <!-- - ⚡ Fun fact: ... -->
 
 I'm currently seeking collaborators to work on.
-* [Warg](https://github.com/BytecodeAlliance/registry) - A protocol for Wasm Registries.
+* [warg](https://github.com/BytecodeAlliance/registry) - A protocol for Wasm Registries.
 * [template-compiler](https://github.com/esoterra/template-compiler) - An ahead-of-time compiler from templates to Wasm Components.
-* [Wrought](https://github.com/wrought-lang) - A simple compile-to-Wasm programming language.
+* [wrought](https://github.com/wrought-lang) - A simple compile-to-Wasm programming language.
 
 
