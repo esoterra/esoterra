@@ -4,11 +4,12 @@
 About me
 - 🔭 I’m currently working on WASM at SingleStore
 <!-- - 👯 I’m looking to collaborate on fun and interesting Rust and TypeScript projects -->
-- 😄 Pronouns: He/Him
+<!-- - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
 
 I'm currently seeking collaborators to work on.
 * [Warg](https://github.com/BytecodeAlliance/registry) - A protocol for Wasm Registries.
+* [template-compiler](https://github.com/esoterra/template-compiler) - An ahead-of-time compiler from templates to Wasm Components.
 * [Wrought](https://github.com/wrought-lang) - A simple compile-to-Wasm programming language.
 
 
